@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 1102
     height: 556
-  m_MinSize: {x: 202, y: 226}
-  m_MaxSize: {x: 4002, y: 4026}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -97,8 +97,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 933
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -437,7 +437,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/SPITIA/Houses
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -447,16 +447,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/SPITIA/Houses
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Data\\\u03A5\u03C0\u03BF\u03BB\u03BF\u03B3\u03B9\u03C3\u03C4\u03AE\u03C2\\kastropolitia-main"
+  m_LastProjectPath: C:\Data\git hub codes\KastropolitiaNew
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 9}
-    m_SelectedIDs: 768b0100
-    m_LastClickedID: 101238
-    m_ExpandedIDs: 00000000768b010000ca9a3b
+    m_SelectedIDs: eaba0100
+    m_LastClickedID: 113386
+    m_ExpandedIDs: 00000000468201005482010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -631,9 +631,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 004afeffec51feff
+      m_SelectedIDs: 1ae6fdff
+      m_LastClickedID: -137702
+      m_ExpandedIDs: 365bfeff6265feff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1475,9 +1475,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 2139.1167, y: -754.26306, z: 105.85328}
+    m_Target: {x: 2124.692, y: -624.9836, z: -42.274643}
     speed: 2
-    m_Value: {x: 2139.1167, y: -754.26306, z: 105.85328}
+    m_Value: {x: 2124.692, y: -624.9836, z: -42.274643}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1525,11 +1525,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.1198335, y: -0.8652856, z: 0.24731731, w: -0.41926658}
     speed: 2
-    m_Value: {x: 0.1198335, y: 0.8652856, z: -0.24731731, w: 0.41926655}
+    m_Value: {x: -0.119831726, y: -0.86527276, z: 0.24731366, w: -0.41926038}
   m_Size:
-    m_Target: 1731.6736
+    m_Target: 890.65576
     speed: 2
-    m_Value: 1731.6736
+    m_Value: 890.65576
   m_Ortho:
     m_Target: 0
     speed: 2
